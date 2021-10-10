@@ -1,2 +1,3 @@
-##
-#a faire: ajouter un fichier .gitIgnore
+#git test
+##projet collaboratif
+a faire: ajouter un fichier .gitIgnore
