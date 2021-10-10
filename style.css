@@ -2,3 +2,10 @@ h {
     color: yellow;
     background-color: blue;
 }
+/*ssh-keygen -R github.com
+
+ git remote -v
+git remote set-url origin https://github.com/barhoumy/testGit
+
+ git push -u origin main --force
+***/
